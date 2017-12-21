@@ -6,7 +6,7 @@ tags:
 categories:
 -   hackintosh
 ---
-previously we had a working system, or so I thought. However, the presence of a part 2 implies that not all was well. There were still 3 further issues.
+Previously we had a working system, or so I thought. However, the presence of a part 2 implies that not all was well. There were still 3 further issues.
 
 - Airdrop wasn't showing up on my system, despite a compatible bluetooth USB stick.
 - Secondly, I wanted to try out Ulysses editor, and it simply wouldn't run.
