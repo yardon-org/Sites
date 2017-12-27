@@ -8,7 +8,7 @@ categories:
 ---
 Previously we had a working system, or so I thought. However, the presence of a part 2 implies that not all was well. There were still 3 further issues.
 
-- Airdrop wasn't showing up on my system, despite a compatible bluetooth USB stick.
+- Airdrop wasn't showing up on my hexo ssystem, despite a compatible bluetooth USB stick.
 - Secondly, I wanted to try out Ulysses editor, and it simply wouldn't run.
 - NuGet in visual studio would show up in the menu, but fail to connect to the server.
 
